@@ -1,6 +1,14 @@
 # Wikipedia Viewer
 
-The purpose of the project is to create a Wikipedia Viewer.
+The purpose of the project is to provide a Wikipedia Viewer.
+
+## UX
+
+User Stories to Follow.
+
+## Features
+
+The ability to search an article.
 
 ## Credits
 
