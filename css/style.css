@@ -13,3 +13,8 @@ body {
 #random:hover {
     color: purple;
 }
+
+/* Search Icon */
+#search-icon {
+    font-size: 45px;
+}
