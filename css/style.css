@@ -21,3 +21,7 @@ body {
     position: relative;
     top: 50px;
 }
+
+#search-icon:hover {
+    color: orangered;
+}
