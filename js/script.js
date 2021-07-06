@@ -11,4 +11,9 @@ $(document).ready(function() {
         let articleTerm = $('#inputbox').val();
         getArticle(articleTerm);
     });
+
+    // Function to Get Article
+    function getArticle(articleTerm) {
+        
+    }
 });
