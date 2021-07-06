@@ -3,3 +3,13 @@
 body {
     font-family: "Roboto", Arial, Verdana, sans-serif;
 }
+
+/* Random Article */
+#random {
+    text-decoration: none;
+    color: #009B77;
+}
+
+#random:hover {
+    color: #00758F;
+}
