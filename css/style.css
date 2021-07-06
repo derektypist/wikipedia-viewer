@@ -4,6 +4,10 @@ body {
     font-family: "Roboto", Arial, Verdana, sans-serif;
 }
 
+header {
+    font-size: 3rem;
+}
+
 /* Random Article */
 #random {
     text-decoration: none;
