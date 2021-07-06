@@ -8,6 +8,7 @@ body {
 #random {
     text-decoration: none;
     color: #009B77;
+    bottom: 40px;
 }
 
 #random:hover {
