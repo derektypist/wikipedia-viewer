@@ -23,9 +23,8 @@ header {
 #search-icon {
     font-size: 2.1rem;
     color: darkblue;
-    position: relative;
-    top: 2.2rem;
     cursor: pointer;
+    margin-top: 1.5rem;
 }
 
 #search-icon:hover {
