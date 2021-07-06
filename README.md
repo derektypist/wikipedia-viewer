@@ -4,7 +4,11 @@ The purpose of the project is to provide a Wikipedia Viewer.
 
 ## UX
 
-User Stories to Follow.
+As a user, I can search Wikipedia Entries in the search box and see the resulting Wikipedia Entries.
+
+As a user, I can click a button to see a random Wikipedia Entry.
+
+
 
 ## Features
 
