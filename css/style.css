@@ -35,3 +35,22 @@ header {
 .search-box {
     display: none;
 }
+
+/* Main Search Output */
+.main-search-output {
+    border: 1px solid black;
+    width: 100%;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: #aaa;
+    color: white;
+}
+
+.main-search-output a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style-type: none;
+}
