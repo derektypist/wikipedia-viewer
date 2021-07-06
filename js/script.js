@@ -14,6 +14,35 @@ $(document).ready(function() {
 
     // Function to Get Article
     function getArticle(articleTerm) {
-        
+        $.ajax({
+  
+            url: 'https://en.wikipedia.org/w/api.php',
+
+            headers: {
+                'Api-User-Agent':'derek_dhammaloka@yahoo.com'
+            },
+
+            data: {
+                action: 'query',
+                prop: 'revisions',
+                reprop: 'content',
+                format: 'json',
+                origin: '*',
+                list: 'search',
+                srsearch: articleTerm,
+            },
+
+            success: function(data) {
+                processData(data.query.search);
+            },
+
+            fail: function(err,xhr) {
+                console.log(err);
+            },
+
+
+        });
     }
+
+    
 });
