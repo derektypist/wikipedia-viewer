@@ -44,5 +44,10 @@ $(document).ready(function() {
         });
     }
 
-    
+    // Function to Process Data
+    function processData(data) {
+        // Set Up Search Results Box
+    }
+
+
 });
