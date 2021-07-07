@@ -62,7 +62,7 @@ $(document).ready(function() {
             let $para = $('<p></p>').html(obj['snippet']);
 
             // Get PageID and Create Anchor Element
-            let $a = $('<a></a>').attr(`href`,`https://en.wikipedia.org=?curid${obj['pageid']}`).attr(`target`,`_blank`);
+            let $a = $('<a></a>').attr(`href`,`https://en.wikipedia.org/?curid=${obj['pageid']}`).attr(`target`,`_blank`);
 
             // Create List Element
             let $list = $('<li></li>');
