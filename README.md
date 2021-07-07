@@ -10,7 +10,8 @@ Computing Terms such as Cell).
 
 When hovering over the Search Icon (Magnifying Glass), a screentip appears.  The color changes.  Clicking on the
 magnifying glass takes you to the search form, where you have to enter an item (e.g. torch), term or keyword and then
-click on the search button.  The item, term or keyword has the data type of string.
+click on the search button.  The item, term or keyword has the data type of string.  When the search button has been
+clicked, the search results appear.  Clicking on the links takes you to the Wikipedia Article without leaving the web page.
 
 When hovering over the Link, the color changes.
 
@@ -51,7 +52,7 @@ Deployed on [GitHub Pages](https://derektypist.github.io/wikipedia-viewer) at th
 ## Credits
 
 Micah Akpan on GitHub for the Wikipedia Viewer Repository.  Last Accessed on 7 July 2021.  Also FreeCodeCamp for supplying the
-entry on Wikipedia API.
+entry on Wikipedia API and the Random Wikipedia Entry.
 
 ### Acknowledgements
 
