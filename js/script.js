@@ -47,6 +47,12 @@ $(document).ready(function() {
     // Function to Process Data
     function processData(data) {
         // Set Up Search Results Box
+        let $searchResultsBox = $('.search-results');
+        $searchResultsBox.html(``);
+
+        data.forEach(function(obj) {
+            
+        });
     }
 
 
