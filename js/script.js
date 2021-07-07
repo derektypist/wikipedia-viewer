@@ -51,7 +51,12 @@ $(document).ready(function() {
         $searchResultsBox.html(``);
 
         data.forEach(function(obj) {
-            
+            let $mainSearchOutput = $(`<article></article>`);
+            $mainSearchOutput.addClass('main-search-output');
+
+            // Get Title
+            let title = obj['title'];
+            let heading = $('<h2></h2>').text(title);
         });
     }
 
