@@ -22,6 +22,8 @@ As a user, I can click a button to see a random Wikipedia Entry.
 
 [Using Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
 
+[Wireframes](wireframes/) are supplied.
+
 ## Features
 
 The ability to search an article (e.g. computing terms) as well as generate a random article.
