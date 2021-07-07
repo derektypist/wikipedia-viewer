@@ -30,8 +30,20 @@ The ability to search an article (e.g. computing terms) as well as generate a ra
 
 Uses HTML5, CSS3, Bootstrap 5.0.2, JavaScript, jQuery 3.6.0, Google Fonts and Font Awesome 5.15.3.
 
+## Testing
+
+Ensure all the user stories have been met.  If I enter Torch in the Search Box and I click on the Search Button, I should get
+Torch, Torch (disambiguation), Operation Torch, Torch song, Swedish torch, Light the Torch, Plasma torch, Hand On The Torch, 
+Torch (browser) and Oxy-fuel welding and cutting.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/wikipedia-viewer) at the main branch.
+
 ## Credits
 
+Micah Akpan on GitHub for the Wikipedia Viewer Repository.  Last Accessed on 7 July 2021.  Also FreeCodeCamp for supplying the
+entry on Wikipedia API.
 
 ### Acknowledgements
 
