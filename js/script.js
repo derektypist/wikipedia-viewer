@@ -64,6 +64,22 @@ $(document).ready(function() {
             // Get PageID and Create Anchor Element
             let $a = $('<a></a>').attr(`href`,`https://en.wikipedia.org=?curid${obj['pageid']}`).attr(`target`,`_blank`);
 
+            // Create List Element
+            let $list = $('<li></li>');
+
+            // Append Heading and Paragraph to the List Item
+            $list.append($heading);
+            $list.append($para);
+
+            // Create Unordered List
+            $('<ul></ul>').append($list).appendTo($a);
+
+            // Add to Main Search Output
+            $mainSearchOutput.append($a);
+
+            // Add to Search Results Box
+            $searchResultsBox.append($mainSearchOutput);
+
         });
     }
 
