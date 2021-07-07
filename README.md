@@ -51,7 +51,9 @@ Deployed on [GitHub Pages](https://derektypist.github.io/wikipedia-viewer) at th
 
 ## Credits
 
-Micah Akpan on GitHub for the Wikipedia Viewer Repository.  Last Accessed on 7 July 2021.  Also FreeCodeCamp for supplying the
+### Content
+
+Taken from Micah Akpan on GitHub for the Wikipedia Viewer Repository.  Last Accessed on 7 July 2021.  Also FreeCodeCamp for supplying the
 entry on Wikipedia API and the Random Wikipedia Entry.
 
 ### Acknowledgements
