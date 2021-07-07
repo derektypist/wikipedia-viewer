@@ -22,11 +22,17 @@ As a user, I can click a button to see a random Wikipedia Entry.
 
 [Using Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
 
-[Wireframes](wireframes/) are supplied.
+Wireframes are supplied.
+- [Wikipedia Viewer with Search Results](wireframes/wikipeda-viewer.png)
+- [Wikipedia Viewer Initial](wireframes/wikipedia-viewer-2.png)
+- [Wikipedia Viewer with Hover on Search Icon](wireframes/wikipedia-viewer-3.png)
+- [Wikipedia Viewer with Search Box](wireframes/wikipedia-viewer-4.png)
+- [Wikipedia Viewer with Hover on Get Random Article](wireframes/wikipedia-viewer-5.png)
 
 ## Features
 
-The ability to search an article (e.g. computing terms) as well as generate a random article.
+The ability to search an article (e.g. computing terms) as well as generate a random article.  If I had the time, I would have a reset button
+to reset the searches.  I would also provide invalid input, if I did not enter anything in the search box.
 
 ## Technologies
 
