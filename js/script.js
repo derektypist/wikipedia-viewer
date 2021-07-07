@@ -54,9 +54,16 @@ $(document).ready(function() {
             let $mainSearchOutput = $(`<article></article>`);
             $mainSearchOutput.addClass('main-search-output');
 
-            // Get Title
+            // Get Title and Create Heading h2
             let title = obj['title'];
-            let heading = $('<h2></h2>').text(title);
+            let $heading = $('<h2></h2>').text(title);
+
+            // Get Snippet and Create Paragraph
+            let $para = $('<p></p>').html(obj['snippet']);
+
+            // Get PageID and Create Anchor Element
+            let $a = $('<a></a>').attr(`href`,`https://en.wikipedia.org=?curid${obj['pageid']}`).attr(`target`,`_blank`);
+
         });
     }
 
