@@ -5,15 +5,14 @@ as well as searching Wikipedia Entries (e.g. Computing Terms such as Cell).
 
 ## UX
 
-Wikipedia Viewer allows you to generate a random Wikipedia Entry as well as searching for Wikipedia Entries (e.g.
-Computing Terms such as Cell).
+Wikipedia Viewer allows you to generate a random Wikipedia Entry as well as searching for Wikipedia Entries (e.g. Computing Terms such as Cell).
 
-When hovering over the Search Icon (Magnifying Glass), a screentip appears.  The color changes.  Clicking on the
-magnifying glass takes you to the search form, where you have to enter an item (e.g. torch), term or keyword and then
-click on the search button.  The item, term or keyword has the data type of string.  When the search button has been
-clicked, the search results appear.  Clicking on the links takes you to the Wikipedia Article without leaving the web page.
+On the search form, enter item, term or keyword (e.g. torch), term or keyword and then
+select the Search Button.  When the Search Button has been clicked or the enter key has been pressed, the search results appear.  Clicking on the links takes you to the Wikipedia Article without leaving the web page.
 
-When hovering over the Link, the color changes.
+The item, term or keyword has the data type of string.  
+
+When hovering over the Links, the color changes.
 
 As a user, I can search Wikipedia Entries in the search box and see the resulting Wikipedia Entries.
 
