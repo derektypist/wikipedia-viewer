@@ -20,6 +20,10 @@ header {
     color: purple;
 }
 
+/* Search Box */
+.search-box {
+    margin-top: 1rem;
+}
 
 /* Main Search Output */
 .main-search-output {
