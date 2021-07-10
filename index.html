@@ -20,20 +20,20 @@
 <body>
     <!-- Set Up Header -->
     <header class="container-fluid text-center">
-        <h1>Wikipeda Viewer</h1>
+        <h1>Wikipedia Viewer</h1>
     </header>
 
     <!-- Set Up Section -->
     <section class="container-fluid text-center">
         <!-- Get Random Article -->
         <a href="https://en.wikipedia.org/wiki/Special:Random" target="_blank" id="random">Get Random Article</a>
-        <p>Search<i class="fas fa-search"></i></p>
         
         <article>
             <!-- Set Up Search Form -->
             <form>
                 <div class="mb-3">
-                    <input type="search" placeholder="Search Term or Keyword (e.g. Torch)" id="inputbox" name="articleitem" class="form-control">
+                    <label for="inputbox">Search Term or Keyword<i class="fas fa-search" class="form-label"></i></label>
+                    <input type="search" placeholder="Search Term or Keyword (e.g. Torch)" id="inputbox" name="articleitem" title="Search Term or Keyword (e.g. Torch)" class="form-control">
                 </div>
 
                 <!-- Set Up and Center Buttons -->
