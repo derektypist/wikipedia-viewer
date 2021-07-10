@@ -20,6 +20,9 @@ header {
     color: purple;
 }
 
+form {
+    margin-top: 2rem;
+}
 
 /* Main Search Output */
 .main-search-output {
