@@ -20,22 +20,6 @@ header {
     color: purple;
 }
 
-/* Search Icon */
-#search-icon {
-    font-size: 2.1rem;
-    color: darkblue;
-    cursor: pointer;
-    margin-top: 1.5rem;
-}
-
-#search-icon:hover {
-    color: orangered;
-}
-
-/* Search Box */
-.search-box {
-    display: none;
-}
 
 /* Main Search Output */
 .main-search-output {
