@@ -20,8 +20,9 @@ header {
     color: purple;
 }
 
-form {
-    padding-top: 2rem;
+/* Title for Search Form */
+h3 {
+    margin-top: 1.5rem;
 }
 
 /* Main Search Output */
