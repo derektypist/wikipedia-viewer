@@ -6,12 +6,7 @@ $(document).ready(function() {
         $(this).hide();
     });
 
-    // Show or Hide Search Box when Search Icon is Selected on Key Down
-    $("#search-icon").keydown(function() {
-        $('.search-box').show();
-        $(this).hide();
-    });
-
+   
     // Get Article when Button is Clicked
     $('.btn').click(function() {
         let articleTerm = $('#inputbox').val();
