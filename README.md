@@ -24,11 +24,12 @@ As a user, I can click a button to see a random Wikipedia Entry.
 [Using Wikipedia API](https://www.mediawiki.org/wiki/API:Main_page)
 
 Wireframes are supplied.
-- [Wikipedia Viewer with Search Results](wireframes/wikipedia-viewer.png)
-- [Wikipedia Viewer Initial](wireframes/wikipedia-viewer-2.png)
-- [Wikipedia Viewer with Hover on Search Icon](wireframes/wikipedia-viewer-3.png)
-- [Wikipedia Viewer with Search Box](wireframes/wikipedia-viewer-4.png)
-- [Wikipedia Viewer with Hover on Get Random Article](wireframes/wikipedia-viewer-5.png)
+- [Wikipedia Viewer - Initial](wireframes/wikipedia-viewer.png)
+- [Wikipedia Viewer - Hover on Get Random Article](wireframes/wikipedia-viewer-2.png)
+- [Wikipedia Viewer - Hover on Input Box](wireframes/wikipedia-viewer-3.png)
+- [Wikipedia Viewer - Search Results (Hover)](wireframes/wikipedia-viewer-4.png)
+- [Wikipedia Viewer - Search Results](wireframes/wikipedia-viewer-5.png)
+- [Wikipedia Viewer - Screentip on Search Results](wireframes/wikipedia-viewer-6.png)
 
 ## Features
 
